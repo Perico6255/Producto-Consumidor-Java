@@ -14,11 +14,11 @@
 - Descargar o clonar este repositorio.
 #### http: 
 ```
-git clone 
+git clone https://github.com/Perico6255/Producto-Consumidor-Java.git
 ```
 #### ssh: 
 ```
-git clone 
+git clone git@github.com:Perico6255/Producto-Consumidor-Java.git
 ```
 - Ejecución del Programa Main:
 Deberia de ver una salida de guardar y consumir caracteres en el buffer
